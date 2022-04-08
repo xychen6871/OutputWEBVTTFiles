@@ -1,0 +1,106 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.000 line:80% position:45% align:center
+DEFAULT setting for line and position
+MGAT
+
+00:00:05.001 --> 00:00:10.000 line:82% position:75% align:center
+line at 0 percent
+MGAT
+
+00:00:10.001 --> 00:00:15.000 line:82% position:44% align:start
+line at 25 percent
+MGAT
+
+00:00:15.001 --> 00:00:20.000 line:82% position:44% align:start
+line at 50 percent
+MGAT
+
+00:00:20.001 --> 00:00:25.000 line:80% position:11% align:start
+line at 75 percent
+MGAT
+
+00:00:25.001 --> 00:00:30.000 line:20% position:41% align:start
+line at 100 percent
+MGAT
+
+00:00:30.001 --> 00:00:35.000 line:19% position:34% align:start
+position at 0 percent
+MGAT
+
+00:00:35.001 --> 00:00:40.000 line:26% position:66% align:center
+position at 25 percent
+MGAT
+
+00:00:40.001 --> 00:00:45.000 line:19% position:31% align:start
+position at 50 percent
+MGAT
+
+00:00:45.001 --> 00:00:50.000 line:36% position:35% align:center
+position at 75 percent
+MGAT
+
+00:00:50.001 --> 00:00:55.000 line:90% position:28% align:start
+position at 100 percent
+MGAT
+
+00:00:55.001 --> 00:01:00.000 line:11% position:34% align:start
+position at 0 percent
+align left
+
+00:01:00.001 --> 00:01:05.000 line:11% position:66% align:center
+position at 25 percent
+align left
+
+00:01:05.001 --> 00:01:10.000 line:28% position:66% align:center
+position at 50 percent
+align left
+
+00:01:10.001 --> 00:01:15.000 line:14% position:66% align:center
+position at 75 percent
+align left
+
+00:01:15.001 --> 00:01:20.000 line:45% position:66% align:center
+position at 100 percent
+align left
+
+00:01:20.001 --> 00:01:25.000 line:15% position:69% align:center
+position at 0 percent
+align center
+
+00:01:25.001 --> 00:01:30.000 line:33% position:66% align:center
+position at 25 percent
+align center
+
+00:01:30.001 --> 00:01:35.000 line:74% position:66% align:center
+position at 50 percent
+align center
+
+00:01:35.001 --> 00:01:40.000 line:57% position:18% align:start
+position at 75 percent
+align center
+
+00:01:40.001 --> 00:01:45.000 line:90% position:28% align:start
+position at 100 percent
+align center
+
+00:01:45.001 --> 00:01:50.000 line:90% position:34% align:start
+position at 0 percent
+align right
+
+00:01:50.001 --> 00:01:55.000 line:61% position:35% align:center
+position at 25 percent
+align right
+
+00:01:55.001 --> 00:02:00.000 line:53% position:35% align:center
+position at 50 percent
+align right
+
+00:02:00.001 --> 00:02:05.000 line:47% position:66% align:center
+position at 75 percent
+align right
+
+00:02:05.001 --> 00:02:10.000 line:47% position:66% align:center
+position at 100 percent
+align right
+
