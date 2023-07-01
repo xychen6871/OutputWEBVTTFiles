@@ -3,7 +3,7 @@ WEBVTT
 00:00:00.800 --> 00:00:03.003 line:90% position:50% align:center
 ♪MUSIC♪
 
-00:00:04.371 --> 00:00:06.272 line:11% position:40% align:start
+00:00:04.371 --> 00:00:06.272 line:11% position:39% align:start
 I AM AT THE LEFT
 OF THE SCREEN.
 
@@ -61,15 +61,15 @@ CAPTION POPS ON,
 THE OLD CAPTION
 DISAPPEARS.
 
-00:00:39.773 --> 00:00:40.874 line:90% position:50% align:center
+00:00:39.773 --> 00:00:40.874 line:11% position:11% align:start
 THIS IS A
 PAINT-ON CAPTION.
 
-00:00:43.009 --> 00:00:44.911 line:90% position:66% align:center
+00:00:43.009 --> 00:00:44.911 line:68% position:66% align:center
 ONE CAPTION BLOCK IS
 PAINTED ON THE SCREEN,
 
-00:00:45.078 --> 00:00:48.648 line:69% position:39% align:center
+00:00:45.078 --> 00:00:48.648 line:71% position:39% align:center
 FROM LEFT TO RIGHT,
 ONE CHARACTER AT A TIME.
 
@@ -92,27 +92,27 @@ ONE LINE AT A TIME.
 Captions can appear
 in lower case,
 
-00:00:59.626 --> 00:01:01.361 line:90% position:69% align:center
+00:00:59.626 --> 00:01:01.361 line:68% position:69% align:center
 and also in Spanish:
 
 00:01:01.494 --> 00:01:04.564 line:76% position:39% align:center
 ¿Dónde está el niño?
 Está en la casa.
 
-00:01:04.697 --> 00:01:05.932 line:11% position:56% align:start
+00:01:04.697 --> 00:01:05.932 line:68% position:56% align:start
 And in French:
 
 00:01:06.066 --> 00:01:10.270 line:90% position:50% align:center
 Parlez-vous Français?
 Répétez, s'il vous plaît.
 
-00:01:10.403 --> 00:01:13.506 line:80% position:48% align:center
+00:01:10.403 --> 00:01:13.506 line:68% position:48% align:center
 THE FOLLOWING SPECIAL
 CHARACTERS ARE ALSO AVAILABLE.
 á é í ó ú à è ì ò ù
 ä ë ï ö ü â ê î ô û
 
-00:01:13.640 --> 00:01:17.744 line:68% position:45% align:center
+00:01:13.640 --> 00:01:17.744 line:70% position:45% align:center
 THEY INCLUDE THE MUSIC SYMBOL
 AND ACCENTED CHARACTERS.
 ç ã ñ õ å ¿ ¡ ¢
